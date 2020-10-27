@@ -26,6 +26,7 @@
 }
 ```
 
+![Test Image 1](https://github.com/GetLinkfire/DataIngestion.TestAssignment/blob/main/diagram.png)
 
 ### Prerequisites:
 - Docker
