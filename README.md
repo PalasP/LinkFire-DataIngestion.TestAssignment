@@ -33,7 +33,7 @@
 
 ### Requirments:
 - Use dotnet core Console application
-- Extract the files in you solution. Don't use external tools.
+- Extract the files in your solution. Don't use external tools.
 - You are allowed to use any technology you would like to use (AzureEventhub, EMQ, SqlServer, etc..)
 - Feel free to design your solution in one or more microservices/console apps
 - Solution should be testable, we are not looking for 100% code coverage but show examples of how you make parts unit-testable.
@@ -48,3 +48,4 @@ We want to get a better understanding of:
 - We would like to see a piece of code as you would do on your normal working day.
 - Please don't fork this project and create your own repository.
 - Please send us whatever you have done before the deadline even if it is an incompleted task.
+- Don't hesitate to contact us for questions and support while working on the task.
