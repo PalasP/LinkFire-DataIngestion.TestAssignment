@@ -34,7 +34,7 @@
 
 ### Requirments:
 - Use dotnet core Console application
-- Extract the files in your solution. Don't use external tools.
+- If you stuck in downloading or extracting the files programatically, you can do it manually
 - You are allowed to use any technology you would like to use (AzureEventhub, EMQ, SqlServer, etc..)
 - Feel free to design your solution in one or more microservices/console apps
 - Solution should be testable, we are not looking for 100% code coverage but show examples of how you make parts unit-testable.
